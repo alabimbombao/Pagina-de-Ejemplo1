@@ -104,10 +104,11 @@ text-align:center;
 .caja5 img{
 width:220px;
 height:220px;
-border-radius:50%;
+border-radius: 50%;
 border:6px solid white;
-padding-left: 40px;
+margin: 0 auto;
 }
+
 
 .texto3{
 color:white;
@@ -159,4 +160,5 @@ color:white;
 padding:15px;
 text-align:right;
 font-size:14px;
+
 }
